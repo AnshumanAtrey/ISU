@@ -67,7 +67,6 @@
     153 is an Armstrong number.
     1*1*1 + 5*5*5 + 3*3*3 = 153
     ```
-
 28. WAP to generate the Fibonacci series up to n terms.
     **Hint:**
     Fibonacci series: 0 1 1 2 3 5 8
@@ -78,12 +77,10 @@
     f4=f3+f2
     f5=f4+f3 ....
     ```
-
 29. Write a program that checks whether a number is a prime number or not.
 30. WAP to calculate the sum and average of a given array: arr=(‘i’,[1,2,3,4,5]).
 31. Write a Python program to reverse the order of the items in the array.
 32. Write a Python program to remove duplicate elements in a given array of integers.
-
 33. Write a program that takes a string as input and prints it in reverse order.
 34. Write a program that counts the number of vowels in a given string.
 35. Write a program that checks if a given string is a palindrome (reads the same forwards and backwards).
