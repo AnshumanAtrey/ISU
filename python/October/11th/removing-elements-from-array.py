@@ -9,7 +9,7 @@ print(f"Popped element: {popped_element}")  # Output: Popped element: 7
 
 # Removing an element using remove
 my_array.remove(3)  # Removes the first occurrence of the integer 3 from the array
-
+print(f"Removed 3 occurrence {my_array}")
 # Removing an element using del
 del my_array[0]  # Deletes the element at index 0 (which is now 1 after the previous removal)
 
