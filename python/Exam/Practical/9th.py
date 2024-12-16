@@ -1,3 +1,4 @@
+#Create a simple GUI application using tkinter
 import tkinter as tk
 
 def display_text():
